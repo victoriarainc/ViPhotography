@@ -2,14 +2,14 @@
 ========== GENERAL =============
 ================================*/
 body {
-  background-color: grey;
+  background-color: rgb(234, 237, 242);
   font-size: 25px;
   font-family: sans-serif;
   font-weight: lighter;
 }
 
 header {
-  background-color: white;
+  background-image: url('/images/backgrounds/FB_IMG_1481035367063.jpg');
   color: black;
   width: 100%;
   display: flex;
